@@ -1,2 +1,2 @@
 # Graphic-Design-Projects
-A repository for storing and sharing my work on graphic designing projects
+> These Repository contains my projects to showcase my graphic design projects.
